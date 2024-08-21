@@ -2,6 +2,8 @@
 
 This project visualizes the percentage of adults aged 25 and older with a bachelor's degree or higher in the United States from 2010 to 2014 using D3.js. The data is sourced from JSON files hosted on GitHub.
 
+[View me here](https://agmt92.github.io/us-edu-map-d3/)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
